@@ -13,7 +13,7 @@ Run the script and follow the assistant:
 Once it ends, you can run it again to add more users, remove some of them or even completely uninstall OpenVPN.
 
 ### RestAPI
-WIP
+Basic admin tasks, installation, create and remove clients
 
 ### I want to run my own VPN but don't have a server for that
 You can get a VPS from just 2€/month at [AlphaVPS](https://alphavps.com/clients/aff.php?aff=474&pid=422).
